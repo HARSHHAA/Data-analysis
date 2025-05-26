@@ -68,8 +68,6 @@ scripts/
 THE CELEBRITY SALES GAME.docx
 Full project report
 
-README.md
-Project documentation
 
 Technologies Used
 - Python 3.x
@@ -89,8 +87,3 @@ Welch’s T-Test
 
 Final Interpretation
 Celebrity-backed advertisements did not result in measurable financial advantage. Marketing strategies based on influencer or creative content alone may provide comparable returns.
-
-Author
-Complex (e/dart)
-B.Sc. Data Science – NMIMS Bengaluru
-GitHub: https://github.com/your-username
